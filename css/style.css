@@ -33,7 +33,7 @@ h1 {
 	margin: 2em 1em;
 	white-space: nowrap;
 	overflow: hidden;
-	-webkit-animation: typing 4s steps(14, end),
+	-webkit-animation: typing 1s steps(14, end),
 	           blink-caret .5s step-end infinite alternate;
 	    margin:0;
     padding:0;
@@ -48,9 +48,9 @@ h2 {
 	margin: 2em 1em;
 	white-space: nowrap;
 	overflow: hidden;
-	-webkit-animation: typing 6s steps(40, end),
+	-webkit-animation: typing 2s steps(40, end),
 	           blink-caret .5s step-end infinite alternate;
-	-webkit-animation-delay:5s;
+	-webkit-animation-delay:3s;
 	animation-fill-mode:both;
 	    margin:0;
     padding:0;
@@ -64,9 +64,9 @@ h3 {
 	margin: 2em 1em;
 	white-space: nowrap;
 	overflow: hidden;
-	-webkit-animation: typing 6s steps(40, end),
+	-webkit-animation: typing 2s steps(40, end),
 	           blink-caret .5s step-end infinite alternate;
-	-webkit-animation-delay:11s;
+	-webkit-animation-delay:5s;
 	animation-fill-mode:both;
 	    margin:0;
     padding:0;
